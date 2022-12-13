@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1670124846 source:c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\main.cpp
+	<iostream>
+	<iomanip>
+	"Board.h"
+	<windows.h>
+	"Referee.h"
+	"Player1.h"
+	"Player2.h"
+
+1670189541 source:c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\player1.cpp
+	"Player1.h"
+	"Board.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1670101775 source:c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\player2.cpp
+	"Player2.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1669865082 source:c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\referee.cpp
+	"Player1.h"
+	"Referee.h"
+	"Player2.h"
+	"Board.h"
+	<iostream>
+	<string>
+
+1670189358 source:c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\board.cpp
+	"Board.h"
+	"Player1.h"
+	"Player2.h"
+	"Referee.h"
+	<iostream>
+	<iomanip>
+	<cstddef>
+	<windows.h>
+	"Board.h"
+
+1669865184 c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\board.h
+	"Player1.h"
+	"Player2.h"
+	<iostream>
+
+1669865181 c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\player1.h
+	<string>
+
+1670104306 c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\player2.h
+	<string>
+	"Player1.h"
+
+1670104305 c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\referee.h
+	"Player1.h"
+	"Board.h"
+	<string>
+
+1669266955 source:c:\users\timba\desktop\school folders\fall 22\cs 250 programming\final\final project\backup of board.cpp
+	"Board.h"
+	"Player1.h"
+	"Player2.h"
+	"Referee.h"
+	<iostream>
+	<iomanip>
+	"Player1.h"
+	<iostream>
+
